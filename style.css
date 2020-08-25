@@ -1,0 +1,66 @@
+.navbar{
+    padding-top:0px;
+    padding-bottom: 0px;
+}
+
+body{background-color: rgb(226, 226, 226)}
+
+
+.navbar-brand{
+    background-color:darkcyan;
+    font-weight: bold;
+    padding: 15px;
+}
+
+
+h3{
+    color: darkcyan;
+    font-weight: bold;
+    padding: 5px
+}
+
+.img-thumbnail{
+    padding: 10px;
+    border: none;
+}
+
+p{color: darkslategray;}
+ 
+
+.page-footer{
+background-color: dimgray;
+border-top: 5px solid darkcyan;
+text-align: center;
+position: fixed;
+bottom: 0;
+width: 100%;}
+
+.footer-copyright{
+    color:white;
+}
+     
+p2{color: white;}
+
+.col-md-12{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom:20px;
+}
+
+h4{
+    color: darkcyan;
+    font-weight: bold;
+}
+
+.nav-item.dropdown.show{
+    background-color: lightgray;
+}
+
+.table{
+    text-align: center;
+}
+
+.content{
+    overflow: hidden;
+}
+
